@@ -8,4 +8,7 @@ $maxSubmissionsFromIP = 3;
 
 $authentification = "33687503edb6cc972da1edfc3ca9b01a";
 
+// How long to wait before checking for new apps (when empty)
+$refreshTime = 3*60; // seconds
+
 ?>
